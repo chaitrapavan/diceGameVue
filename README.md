@@ -1,4 +1,4 @@
-# dicegame
+# dicegameVue
 
 ## Project setup
 ```
